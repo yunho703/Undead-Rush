@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Undead Rush/Scenes/Intro.unity
+    guid: e794040fc2164464fa66abfc81ff7851
+  - enabled: 1
+    path: Assets/Undead Rush/Scenes/LoadingScene.unity
+    guid: f59238a98cbf2594e9ed9a5ffd9da0c3
+  - enabled: 1
+    path: Assets/Undead Rush/Scenes/Main.unity
+    guid: ad73477fa4c84de46bf980b51829c0e1
+  m_configObjects: {}
