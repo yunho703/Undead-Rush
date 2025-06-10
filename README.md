@@ -1,1 +1,1 @@
-# Undead-Rush
+# Undead Rush
